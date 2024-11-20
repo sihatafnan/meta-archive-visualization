@@ -1,9 +1,9 @@
 # meta-archive-visualization
-The goal of this task is to show some information visualization related to account privacy to a facebook user. 
+The goal of this task is to show some information visualization related to account privacy to a facebook user. This task was done as part of CS204 : Usable Security and Privacy course's Homework 1.
 
 ### How to run
 
-After unzipping the facebook's downloaded data, you will have following structure in your root dir(output of <u>tree -L 1</u>)
+After unzipping the facebook's downloaded data, you will have following structure in your root dir(output of ```tree -L 1```)
 
 . 
 
@@ -34,7 +34,7 @@ pip install -r requirements.txt
 
 - active_device_sessions_bar_chart.png
 
-  ![active_device_sessions_bar_chart](file:///Users/sihatafnan/Downloads/facebook-sihatafnan97-2024-11-05-qROjE8i1/active_device_sessions_bar_chart.png)
+  ![active_device_sessions_bar_chart](images/active_device_sessions_bar_chart.png)
 
 This image identifies which devices are most frequently used to access the account. A large number of sessions from unknown devices could indicate potential security risks.
 
