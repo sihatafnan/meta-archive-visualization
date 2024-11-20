@@ -36,17 +36,17 @@ pip install -r requirements.txt
 
   ![active_device_sessions_bar_chart](images/active_device_sessions_bar_chart.png)
 
-This image identifies which devices are most frequently used to access the account. A large number of sessions from unknown devices could indicate potential security risks.
+  This image identifies which devices are most frequently used to access the account. A large number of sessions from unknown devices could indicate potential security risks.
 
 - login_locations_map.html
 
-  ![image-20241119234947435](/Users/sihatafnan/Library/Application Support/typora-user-images/image-20241119234947435.png)
+  ![image-20241119234947435](images/login_map.png)
 
   You can zoom in and see the exact locations where your account is currently logged in. I ahve used some dummy data as well, apart from the exact location of Irvine.
 
 - device_app_network_graph
 
-  ![device_app_network_graph](file:///Users/sihatafnan/Downloads/facebook-sihatafnan97-2024-11-05-qROjE8i1/device_app_network_graph.png)
+  ![device_app_network_graph](images/device_app_network_graph.png)
 
   It's a Network Graph of Device-App Relationship. Nodes represent devices and apps. Edges represent the connection between devices and the apps they access.
 
@@ -58,13 +58,14 @@ This image identifies which devices are most frequently used to access the accou
 
   
 
-![targeting_methods_pie_chart](file:///Users/sihatafnan/Downloads/facebook-sihatafnan97-2024-11-05-qROjE8i1/targeting_methods_pie_chart.png)
+![targeting_methods_pie_chart](images/targeting_methods_pie_chart.png)
 
-​	Show the proportion of advertisers that use one, two, or all   three methods of targeting, offering a quick summary of advertiser behavior. It includes all the advertisers that user is being tracked by.
+​	Show the proportion of advertisers that use one, two, or all   three methods of targeting, offering a quick summary of advertiser behavior. It includes all the advertisers that user is being 
+  tracked by.
 
 - events_by_platform_bar_chart.png
 
-  ![events_by_platform_bar_chart](file:///Users/sihatafnan/Downloads/facebook-sihatafnan97-2024-11-05-qROjE8i1/events_by_platform_bar_chart.png)
+  ![events_by_platform_bar_chart](images/events_by_platform_bar_chart.png)
 
   Count the total number of events for each platform (name) and display them in a bar chart.
 
@@ -72,7 +73,7 @@ This image identifies which devices are most frequently used to access the accou
 
 - Connected_app_duration_status.png
 
-  ![Connected_app_duration_status](file:///Users/sihatafnan/Downloads/facebook-sihatafnan97-2024-11-05-qROjE8i1/Connected_app_duration_status.png)
+  ![Connected_app_duration_status](images/Connected_app_duration_status.png)
 
   It provides insights into apps and websites connected to the user's Facebook account. These visualizations can help users understand their privacy exposure and take action if needed.
 
