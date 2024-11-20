@@ -1,5 +1,5 @@
 # meta-archive-visualization
-The goal of this task is to show some information visualization related to account privacy to a facebook user. This task was done as part of CS204 : Usable Security and Privacy course's Homework 1.
+The goal of this task is to show some information visualization related to account privacy to a facebook user. This task was done as part of UCI's CS204 : Usable Security and Privacy course's Homework 1.
 
 ### How to run
 
